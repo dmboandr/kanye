@@ -5,7 +5,7 @@ def get_quote():
     pass
     #Write your code here.
 
-
+# https://api.kanye.rest
 
 window = Tk()
 window.title("Kanye Says...")
